@@ -24,3 +24,5 @@ debian/*.substvars
 INSTALL
 Makefile.in
 Makefile
+debian/vyatta-conntrack/
+src/vyatta-conntrack-logging
