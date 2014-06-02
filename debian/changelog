@@ -1,3 +1,13 @@
+vyatta-conntrack (0.54+osvx1+projectx1) unstable; urgency=medium
+
+  [ Daniil Baturin ]
+  * Bug #185: ensure nf_conntrack_netlink module is loaded.
+
+  [ Valentin Yakovenkov ]
+  * Fix .gitignore
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Mon, 02 Jun 2014 12:21:18 +0400
+
 vyatta-conntrack (0.54+vyos1+helium1) unstable; urgency=low
 
   * New branch
